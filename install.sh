@@ -4,5 +4,7 @@ sudo apt-get install npm -y
 sudo npm install n -g -y
 sudo n v7
 
-git clone https://github.com/dondreytaylor/btg-node-stratum-pool.git
-cd btg-node-stratum-pool
+git clone https://github.com/poolgold/z-nomp-bitcoin-gold.git pool
+cd pool
+npm update
+npm install
